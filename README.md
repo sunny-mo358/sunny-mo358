@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunny-mo358
+- 👋 Hi, I’m sunny
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning php
 - 😑 I'm a freshman so I'm a little bit lost
